@@ -1,0 +1,9 @@
+Package: validate
+Version: 0.0.2
+Depends: R (>= 3.0.0)
+Imports: methods, settings, yaml
+Suggests: testthat
+License: GPL-3
+MD5sum: 6c037d029d1980537f28e2079c8807bf
+NeedsCompilation: yes
+
