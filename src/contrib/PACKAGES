@@ -4,6 +4,6 @@ Depends: R (>= 3.0.0)
 Imports: methods, settings, yaml
 Suggests: testthat
 License: GPL-3
-MD5sum: 8e22cd344967dad317f839def54bc35d
+MD5sum: 0f3b7c4a307c510c9929b602931c7d57
 NeedsCompilation: yes
 
