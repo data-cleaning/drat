@@ -1,9 +1,9 @@
 Package: validate
-Version: 0.0.2
+Version: 0.1.2
 Depends: R (>= 3.0.0)
-Imports: methods, settings, yaml
+Imports: methods, graphics, settings, yaml
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 787dae0901ffcca64e6d53a01ecd0414
+MD5sum: 11fdc26a84147d2a737102c9ad7336ff
 NeedsCompilation: yes
 
