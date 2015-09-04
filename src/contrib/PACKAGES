@@ -7,3 +7,12 @@ License: GPL-3
 MD5sum: 11fdc26a84147d2a737102c9ad7336ff
 NeedsCompilation: yes
 
+Package: validate.adjust
+Version: 0.0.1
+Depends: R (>= 3.0.0)
+Imports: methods, validate, supral
+Suggests: testthat, knitr
+License: GPL-3
+MD5sum: 18daf3501979a372a5ee25a4de49f996
+NeedsCompilation: no
+
