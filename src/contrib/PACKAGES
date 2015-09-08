@@ -1,3 +1,10 @@
+Package: lintools
+Version: 0.0.1
+Suggests: testthat, knitr
+License: GPL-3
+MD5sum: 3551e1e4103ef2d2da196d5c042cf49c
+NeedsCompilation: yes
+
 Package: validate
 Version: 0.1.2
 Depends: R (>= 3.0.0)
