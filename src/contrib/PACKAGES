@@ -2,7 +2,7 @@ Package: lintools
 Version: 0.0.1
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 3551e1e4103ef2d2da196d5c042cf49c
+MD5sum: 8ef32b59ff9aa8d704fc77af120a54a9
 NeedsCompilation: yes
 
 Package: validate
