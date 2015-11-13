@@ -23,3 +23,12 @@ License: GPL-3
 MD5sum: 18daf3501979a372a5ee25a4de49f996
 NeedsCompilation: no
 
+Package: validate.modify
+Version: 0.0.1
+Depends: R (>= 3.2.0)
+Imports: methods, yaml, validate
+Suggests: testthat, knitr
+License: GPL-3
+MD5sum: 1b3cc273425a244a69959eccb57a789a
+NeedsCompilation: no
+
