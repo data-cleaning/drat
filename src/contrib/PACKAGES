@@ -1,3 +1,12 @@
+Package: dcmodify
+Version: 0.0.1
+Depends: R (>= 3.2.0)
+Imports: methods, yaml, validate
+Suggests: testthat, knitr
+License: GPL-3
+MD5sum: 703507f3cab2334fdf86f01c993ca146
+NeedsCompilation: no
+
 Package: lintools
 Version: 0.0.1
 Suggests: testthat, knitr
