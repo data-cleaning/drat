@@ -7,6 +7,15 @@ License: GPL-3
 MD5sum: 3a2c9d72c5f237181884b881ad65e19c
 NeedsCompilation: no
 
+Package: deductive
+Version: 0.0.1
+Depends: R (>= 3.2.0)
+Imports: methods, lintools, validate
+Suggests: testthat, knitr
+License: GPL-3
+MD5sum: 6b0ab985e131ec2a1dd7a2d4e9d585f2
+NeedsCompilation: yes
+
 Package: lintools
 Version: 0.0.1
 Suggests: testthat, knitr
