@@ -17,10 +17,10 @@ MD5sum: 6b0ab985e131ec2a1dd7a2d4e9d585f2
 NeedsCompilation: yes
 
 Package: lintools
-Version: 0.0.1
+Version: 0.1.0.1
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 9184652c64be3618e971ff7e0b4c9e8f
+MD5sum: b64a953425c4b5301b1584e99d856579
 NeedsCompilation: yes
 
 Package: validate
