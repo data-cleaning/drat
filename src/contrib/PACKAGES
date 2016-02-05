@@ -4,7 +4,7 @@ Depends: R (>= 3.2.0)
 Imports: methods, yaml, validate (>= 0.1.4), settings
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 3a2c9d72c5f237181884b881ad65e19c
+MD5sum: 7299bef009ac3d9d1594c0f44f890e70
 NeedsCompilation: no
 
 Package: deductive
