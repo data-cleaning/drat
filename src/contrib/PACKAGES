@@ -18,9 +18,10 @@ NeedsCompilation: yes
 
 Package: lintools
 Version: 0.1.1.0
+Imports: utils
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 91f463a513d140fa4c7bb377a57ef53d
+MD5sum: a9538280f6d05f8eb422cbd9ac943ec2
 NeedsCompilation: yes
 
 Package: validate
