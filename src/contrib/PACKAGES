@@ -25,12 +25,12 @@ MD5sum: bcb5f0f2e6d7e6d664c241dc21e06a6b
 NeedsCompilation: yes
 
 Package: validate
-Version: 0.1.4
+Version: 0.1.5
 Depends: R (>= 3.2.0)
 Imports: methods, graphics, settings, yaml
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 16544c2d4a33c4389b515aba1dd898d6
+MD5sum: 282b0d765491de4665a849f4acda71ca
 NeedsCompilation: yes
 
 Package: validate.adjust
