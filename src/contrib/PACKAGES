@@ -30,7 +30,7 @@ Depends: R (>= 3.2.0)
 Imports: methods, graphics, settings, yaml
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 282b0d765491de4665a849f4acda71ca
+MD5sum: 23d3d8001bf2893d52c45ee3004d1878
 NeedsCompilation: yes
 
 Package: validate.adjust
