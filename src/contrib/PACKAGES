@@ -30,7 +30,7 @@ Depends: methods
 Imports: graphics, settings, yaml
 Suggests: testthat, knitr
 License: GPL-3
-MD5sum: 8e36dcfb5cedc46072d6ec9dce9b48e1
+MD5sum: ba3d5c794905e3a4fc8f205420ecc18a
 NeedsCompilation: yes
 
 Package: validate.adjust
