@@ -17,12 +17,12 @@ MD5sum: e99e1c35f74dd7c01c7c3bd85bc5a636
 NeedsCompilation: yes
 
 Package: errorlocate
-Version: 0.1.0
+Version: 0.1.1
 Depends: validate
 Imports: lpSolveAPI, methods
 Suggests: testthat
 License: GPL-3
-MD5sum: 79e4b720b5785ddfba33ed29bc46e9ac
+MD5sum: fcd04f5dff3fe157735eebc23b25a7d9
 NeedsCompilation: no
 
 Package: lintools
