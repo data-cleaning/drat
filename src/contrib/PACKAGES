@@ -60,3 +60,12 @@ Suggests: testthat, knitr
 License: GPL-3
 MD5sum: 1b3cc273425a244a69959eccb57a789a
 NeedsCompilation: no
+
+Package: validatetools
+Version: 0.2.0.9000
+Depends: validate
+Imports: errorlocate, methods, stats, utils, lpSolveAPI
+Suggests: testthat, covr
+License: MIT + file LICENSE
+MD5sum: 6a40971f3ba89a65d8601058181cef4c
+NeedsCompilation: no
