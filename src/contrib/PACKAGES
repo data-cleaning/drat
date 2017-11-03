@@ -62,10 +62,10 @@ MD5sum: 1b3cc273425a244a69959eccb57a789a
 NeedsCompilation: no
 
 Package: validatetools
-Version: 0.3.6
+Version: 0.4.1
 Depends: validate
-Imports: errorlocate, methods, stats, utils, lpSolveAPI
+Imports: methods, stats, utils, lpSolveAPI
 Suggests: testthat, covr
 License: MIT + file LICENSE
-MD5sum: 98d4d68580602c878c78aba3532c5d2e
+MD5sum: f355bf1fd8f27a223b179d5e359e6e1f
 NeedsCompilation: no
