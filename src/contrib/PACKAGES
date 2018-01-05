@@ -40,7 +40,7 @@ Imports: graphics, settings, yaml
 Suggests: testthat, knitr, rmarkdown
 Enhances: lumberjack
 License: GPL-3
-MD5sum: aac1073f0540fe83bafd283f21ba07d8
+MD5sum: 1233d9a566e8ed3b52bd3dc04b1a780a
 NeedsCompilation: yes
 
 Package: validate.adjust
