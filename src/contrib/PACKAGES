@@ -61,6 +61,15 @@ License: GPL-3
 MD5sum: 1b3cc273425a244a69959eccb57a789a
 NeedsCompilation: no
 
+Package: validatereport
+Version: 0.0.2
+Depends: R (>= 3.1.3), validate (>= 0.2.0)
+Imports: jsonlite, jsonvalidate, knitr, rmarkdown, stats
+Suggests: testthat
+License: GPL-3
+MD5sum: a366d40c30918331d3bfc45a18f89ec9
+NeedsCompilation: no
+
 Package: validatetools
 Version: 0.4.1
 Depends: validate
